@@ -1,6 +1,6 @@
 # jshotwell7
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C4C&random=false&width=435&lines=My+Name+Is+Jervontae+Shotwell;I+am+27+and+pursuing+a+career+in+Software+Engineering;In+my+spare+time%2C+I+like+to+read+about+new+tech%2C+play+basketball+and+trade+Forex)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74C4C&random=false&width=790&lines=My+Name+Is+Jervontae+Shotwell;I+am+27+and+pursuing+a+career+in+Software+Engineering;In+my+spare+time%2C+I+like+to+read+about+new+tech+%26+watch+basketball)](https://git.io/typing-svg)
 
 I am a 27 year old Memphis Native. I am an aspiring software developer, looking to build my skills in programming languages and strengthen my knowledge around the coding world.
 
